@@ -43,7 +43,7 @@ int main()
 
 	} while (option != 2);
 
-	// Exit program 
+	// Exit program
 	cin.clear();
 	cout << "\n               Thank you for playing." << endl;
 	cout << "                Press Enter to Exit." << endl;
