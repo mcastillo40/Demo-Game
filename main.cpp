@@ -2,14 +2,13 @@
 ** Program Name: Final Project
 ** Author: Matthew Castillo
 ** Date: 6/13/17
-** Description: The program is in a fantasy fighting tournament environment.
-** The player will select champions for 2 teams to fight amongst each other.
-** They may select from a Vampire, Barbarian, Blue Men, Medusa, and Harry Potter.
-** The arena class will be created and will be the field in which the
-** creatures fight amongst each other. The rounds will continue until one
-** team no longer has any creatures. The losing creatures of a match will be
-** sent to a losing list which will then be able to be viewed at the end of the
-** tournament. Then the user will be asked if they would like to play again.
+** Description: The user is placed in a gaming environment where they must
+** traverse through different spaces and interact with the location in order
+** to be able to enter the 'Hive Planet' and complete the game. The user will
+** encounter various missions that they will need to complete. At the
+** beginning of the game they will be walked though a training session so
+** that they may understand the controls of the game. The player is given 25
+** health and are allotted with 50 moves to complete the game.
 *************************************************************************/
 #include <iostream>
 #include "Unit.hpp"
