@@ -2,6 +2,10 @@
 
 A game developed based on "Ender's Game" written in C++
 
+In order to play enter 'make' in the command line 
+
+Then enter ./beginGame
+
 Problem to be solved:
 1. 9 spaces were created that were linked to one another by 4 pointer variables  (Top,
     Bottom, Left, and Right). A space abstract class was used with special pure virtual
